@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+
+msgctxt "Addons::name::my_payment"
+msgid "My payment"
+msgstr "Мой способ оплаты"
+
+msgctxt "Addons::description::my_payment"
+msgid "My payment processor"
+msgstr "Модуль для нового процессора оплаты"
+
+
+msgctxt "Languages::addons.my_payment.login"
+msgid "Login API"
+msgstr "API логин"
+
+msgctxt "Languages::addons.my_payment.password"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "Languages::addons.my_payment.logging"
+msgid "Write log"
+msgstr "Писать логи"
+

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-16 11:28:34
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-16 13:06:16
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/smarty_block.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1174699707576263327e2834-18416694%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:169370124757627a18d2da17-83821811%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '1174699707576263327e2834-18416694',
+  'nocache_hash' => '169370124757627a18d2da17-83821811',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_57626332835238_65788344',
+  'unifunc' => 'content_57627a18d79d75_85800612',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57626332835238_65788344')) {function content_57626332835238_65788344($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.live_edit.php';
+<?php if ($_valid && !is_callable('content_57627a18d79d75_85800612')) {function content_57627a18d79d75_85800612($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.live_edit.php';
 if (!is_callable('smarty_function_eval_string')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.eval_string.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {

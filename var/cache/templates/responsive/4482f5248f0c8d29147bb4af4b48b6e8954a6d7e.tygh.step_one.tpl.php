@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-16 11:28:51
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-16 13:06:31
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/views/checkout/components/steps/step_one.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:172058586957626343c84d91-18608322%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:58758477357627a278bda58-62774198%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '172058586957626343c84d91-18608322',
+  'nocache_hash' => '58758477357627a278bda58-62774198',
   'function' => 
   array (
   ),
@@ -34,9 +34,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_57626344027c94_10863551',
+  'unifunc' => 'content_57627a27b73540_63758251',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57626344027c94_10863551')) {function content_57626344027c94_10863551($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
+<?php if ($_valid && !is_callable('content_57627a27b73540_63758251')) {function content_57627a27b73540_63758251($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php
 fn_preload_lang_vars(array('change','please_sign_in','guest','signed_in_as','register_new_account','register','cancel','sign_in_as_different','change','please_sign_in','guest','signed_in_as','register_new_account','register','cancel','sign_in_as_different'));

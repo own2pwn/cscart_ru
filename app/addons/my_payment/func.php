@@ -21,7 +21,7 @@ function fn_my_payment_install()
     $_data = array(
         'processor' => 'My_payment',
         'processor_script' => 'my_payment.php',
-        'processor_template' => 'views/orders/components/payments/cc_outside.tpl',
+        'processor_template' => 'addons/my_payment/views/orders/components/payments/my_payment.tpl',
         'admin_template' => 'my_payment.tpl',
         'callback' => 'N',
         'type' => 'P',

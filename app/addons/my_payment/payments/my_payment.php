@@ -11,20 +11,31 @@
 * PLEASE READ THE FULL TEXT  OF THE SOFTWARE  LICENSE   AGREEMENT  IN  THE *
 * "copyright.txt" FILE PROVIDED WITH THIS DISTRIBUTION PACKAGE.            *
 ****************************************************************************/
-
+//Скрипт оплаты
+//Сделали поле данных для ввода
 use Tygh\Payments\Processors\Alfabank;
 
 if (defined('PAYMENT_NOTIFICATION')) {
 
-    fn_print_r($_REQUEST);
     
+    $order_id = $_REQUEST['order_id'];
+
     if($mode == 'ok') {
-        fn_print_r('ok');
+
+         $order_status = 'P';
+            $pp_response = array(
+                'order_status' => $order_status,
+                'ID' => '0000000'
+            );
     }
 
     if($mode == 'fail') {
-        fn_print_r('fail');   
+
+        $order_status = 'F';
     }
+
+    fn_finish_payment($order_id, $pp_response);
+    fn_order_placement_routines('route', $order_id, false);
 
     fn_print_die('Обработка ответа от платежной системы');
 
@@ -32,7 +43,6 @@ if (defined('PAYMENT_NOTIFICATION')) {
 
 } else {
 
-    fn_print_die(1);
 
    if ($processor_data['processor_params']['mode'] == 'test') {
         $post_address = "https://demomoney.yandex.ru/eshop.xml";

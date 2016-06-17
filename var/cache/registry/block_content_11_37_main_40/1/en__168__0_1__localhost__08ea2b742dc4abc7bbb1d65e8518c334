@@ -1,0 +1,921 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:227:"<script type="text/javascript" src="http://localhost/cscart_ru_i/js/tygh/exceptions.js?ver=4.3.7" ></script><script type="text/javascript" src="http://localhost/cscart_ru_i/js/tygh/product_image_gallery.js?ver=4.3.7" ></script>";s:7:"content";s:43267:"    <div class="ty-mainbox-container clearfix">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            <span >Велосипеды</span>
+                                        
+
+                </h1>
+            
+    
+                <div class="ty-mainbox-body">
+<div id="category_products_11">
+
+
+    
+    
+    <ul class="subcategories clearfix">
+                                        <li class="ty-subcategories__item">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=210">
+                                        <span >Комфорт и круизер</span>
+                    </a>
+                </li>
+                                                <li class="ty-subcategories__item">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=209">
+                                        <span >Шоссейные велосипеды</span>
+                    </a>
+                </li>
+                                                            <li class="ty-subcategories__item">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=208">
+                                        <span >Горные велосипеды</span>
+                    </a>
+                </li>
+                                                </ul>
+
+    
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+    
+
+            
+    <div class="ty-pagination-container cm-pagination-container" id="pagination_contents">
+
+    
+    
+
+    
+        
+            <div class="ty-sort-container">
+    
+
+    
+<div class="ty-sort-container__views-icons">
+                <a class="ty-sort-container__views-a cm-ajax active" data-ca-target-id="pagination_contents" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;sort_by=product&amp;sort_order=desc&amp;layout=products_multicolumns" rel="nofollow">
+    <i class="ty-icon-products-multicolumns"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;sort_by=product&amp;sort_order=asc&amp;layout=products_without_options" rel="nofollow">
+    <i class="ty-icon-products-without-options"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;sort_by=product&amp;sort_order=asc&amp;layout=short_list" rel="nofollow">
+    <i class="ty-icon-short-list"></i>
+</a>
+</div>
+
+    <div class="ty-sort-dropdown">
+    <a id="sw_elm_sort_fields" class="ty-sort-dropdown__wrapper cm-combination">Sort Alphabetically: A to Z<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_sort_fields" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-timestamp-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;sort_by=timestamp&amp;sort_order=desc" rel="nofollow">Newest Items First</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-product-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;sort_by=product&amp;sort_order=desc" rel="nofollow">Sort Alphabetically: Z to A</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-price-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;sort_by=price&amp;sort_order=asc" rel="nofollow">Sort by Price: Low to High</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-price-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;sort_by=price&amp;sort_order=desc" rel="nofollow">Sort by Price: High to Low</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-popularity-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;sort_by=popularity&amp;sort_order=desc" rel="nofollow">Sort by Popularity</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+</div>
+
+
+<div class="ty-sort-dropdown">
+<a id="sw_elm_pagination_steps" class="ty-sort-dropdown__wrapper cm-combination">12 Per Page<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_pagination_steps" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                            <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;items_per_page=24" data-ca-target-id="pagination_contents" rel="nofollow">24 Per Page</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;items_per_page=48" data-ca-target-id="pagination_contents" rel="nofollow">48 Per Page</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="http://localhost/cscart_ru_i/index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en&amp;items_per_page=96" data-ca-target-id="pagination_contents" rel="nofollow">96 Per Page</a>
+            </li>
+                    </ul>
+</div>
+</div>
+    
+            
+    
+    
+    
+    
+    <!-- Inline script moved to the bottom of the page -->
+
+                    <div class="grid-list">
+        <div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_152" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[152][product_id]" value="152" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=152">
+        <img class="ty-pict     cm-image" id="det_img_152"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/DB_2011_DRIFTER-2_Grey_LG.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=152" class="product-title" title="Drifter 2" >Drifter 2</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-152" id="old_price_update_152">
+            
+                        
+
+        <!--old_price_update_152--></span>
+        <span class="cm-reload-152 ty-price-update" id="price_update_152">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_152"><span id="sec_discounted_price_152" class="ty-price-num">28&nbsp;000.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_152--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="152" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=152&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_160" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[160][product_id]" value="160" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=160">
+        <img class="ty-pict     cm-image" id="det_img_160"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/DB2010Drifter3SatinRed_Profile_LRG.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=160" class="product-title" title="Drifter 3" >Drifter 3</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-160" id="old_price_update_160">
+            
+                        
+
+        <!--old_price_update_160--></span>
+        <span class="cm-reload-160 ty-price-update" id="price_update_160">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_160"><span id="sec_discounted_price_160" class="ty-price-num">8&nbsp;000.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_160--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="160" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=160&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_115" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[115][product_id]" value="115" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=115">
+        <img class="ty-pict     cm-image" id="det_img_115"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/CB-evolve.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=115" class="product-title" title="Evolve SST.2 X9 Complete Bike 10SPD &#039;12" >Evolve SST.2 X9 Complete Bike 10SPD '12</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-115" id="old_price_update_115">
+            
+                        
+
+        <!--old_price_update_115--></span>
+        <span class="cm-reload-115 ty-price-update" id="price_update_115">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_115"><span id="sec_discounted_price_115" class="ty-price-num">183&nbsp;800.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_115--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="115" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=115&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_124" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[124][product_id]" value="124" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=124">
+        <img class="ty-pict     cm-image" id="det_img_124"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/CB-truth.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+            <span class="ty-discount-label cm-reload-124" id="discount_label_update_124">
+            <span class="ty-discount-label__item" id="line_prc_discount_value_124"><span class="ty-discount-label__value" id="prc_discount_value_label_124">Save 50%</span></span>
+        <!--discount_label_update_124--></span>
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=124" class="product-title" title="Truth SST.2 X9 Complete Bike 10SPD &#039;12" >Truth SST.2 X9 Complete Bike 10SPD '12</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-124" id="old_price_update_124">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_124"><span class="ty-strike"><span id="sec_list_price_124" class="ty-list-price ty-nowrap">160&nbsp;825.00</span>&nbsp;<span class="ty-list-price ty-nowrap"><span class="ty-rub">Р</span></span></span></span>
+                        
+
+        <!--old_price_update_124--></span>
+        <span class="cm-reload-124 ty-price-update" id="price_update_124">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_124"><span id="sec_discounted_price_124" class="ty-price-num">80&nbsp;825.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_124--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="124" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=124&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_150" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[150][product_id]" value="150" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=150">
+        <img class="ty-pict     cm-image" id="det_img_150"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/DB_2011_WILDWOOD-CITI_Blue_LG.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=150" class="product-title" title="Wildwood city classic" >Wildwood city classic</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-150" id="old_price_update_150">
+            
+                        
+
+        <!--old_price_update_150--></span>
+        <span class="cm-reload-150 ty-price-update" id="price_update_150">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_150"><span id="sec_discounted_price_150" class="ty-price-num">24&nbsp;000.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_150--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="150" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=150&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_151" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[151][product_id]" value="151" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=151">
+        <img class="ty-pict     cm-image" id="det_img_151"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/DB_2011_WILDWOOD-CITI_Black_LG.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=151" class="product-title" title="Wildwood classic" >Wildwood classic</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-151" id="old_price_update_151">
+            
+                        
+
+        <!--old_price_update_151--></span>
+        <span class="cm-reload-151 ty-price-update" id="price_update_151">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_151"><span id="sec_discounted_price_151" class="ty-price-num">20&nbsp;000.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_151--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="151" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=151&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_127" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[127][product_id]" value="127" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_127">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=127">
+        <img class="ty-pict     cm-image" id="det_img_127"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1312496083_CR5-2011-315-sram.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=127">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1312496057_CR5-2011-225-sram.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=127">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1312496025_CR5-2011-180-sram.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=127">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1312496004_CR5-2011-135-sram.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=127">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1312495974_CR5-2011-45-sram.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=127">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1312495960_CR5-2011-0-sram.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                        </div>
+</div>
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=127" class="product-title" title="Велосипед Fore CR5 SRAM: красного цвета" >Велосипед Fore CR5 SRAM: красного цвета</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-127" id="old_price_update_127">
+            
+                        
+
+        <!--old_price_update_127--></span>
+        <span class="cm-reload-127 ty-price-update" id="price_update_127">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_127"><span id="sec_discounted_price_127" class="ty-price-num">191&nbsp;160.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_127--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="127" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=127&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_122" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[122][product_id]" value="122" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=122">
+        <img class="ty-pict     cm-image" id="det_img_122"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/CB-evolution.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=122" class="product-title" title="Горный велосипед Evolution SST.2 XO Complete Bike 10SPD12" >Горный велосипед Evolution SST.2 XO Compl...</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-122" id="old_price_update_122">
+            
+                        
+
+        <!--old_price_update_122--></span>
+        <span class="cm-reload-122 ty-price-update" id="price_update_122">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_122"><span id="sec_discounted_price_122" class="ty-price-num">227&nbsp;800.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_122--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="122" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=122&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_129" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[129][product_id]" value="129" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_129">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=129">
+        <img class="ty-pict     cm-image" id="det_img_129"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1316633534_CR1-2012-315.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=129">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1316633442_CR1-2012-0.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=129">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1316633497_CR1-2012-180.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=129">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1316633471_CR1-2012-90.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                        </div>
+</div>
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=129" class="product-title" title="Шоссейный  велосипед Fore CR1" >Шоссейный  велосипед Fore CR1</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-129" id="old_price_update_129">
+            
+                        
+
+        <!--old_price_update_129--></span>
+        <span class="cm-reload-129 ty-price-update" id="price_update_129">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_129"><span id="sec_discounted_price_129" class="ty-price-num">71&nbsp;960.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_129--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="129" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=129&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper"><form action="http://localhost/cscart_ru_i/index.php" method="post" name="product_form_131" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=204&amp;sl=en" />
+<input type="hidden" name="product_data[131][product_id]" value="131" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_131">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=131">
+        <img class="ty-pict     cm-image" id="det_img_131"  src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1316556371_CA-2012-45.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=131">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1316556344_CA-2012-0.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=131">
+                        <img class="ty-pict   lazyOwl  cm-image"   data-src="http://localhost/cscart_ru_i/images/thumbnails/150/150/detailed/0/1316556781_CA-2012-315.jpg" alt="" title=""    style="min-width: 150px; min-height: 150px; "/>
+
+                    </a>
+                </div>
+                        </div>
+</div>
+    </div><div class="ty-grid-list__item-name">
+            <a href="http://localhost/cscart_ru_i/index.php?dispatch=products.view&amp;product_id=131" class="product-title" title="Шоссейный велосипед Catania" >Шоссейный велосипед Catania</a>    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-131" id="old_price_update_131">
+            
+                        
+
+        <!--old_price_update_131--></span>
+        <span class="cm-reload-131 ty-price-update" id="price_update_131">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_131"><span id="sec_discounted_price_131" class="ty-price-num">49&nbsp;960.00</span>&nbsp;<span class="ty-price-num"><span class="ty-rub">Р</span></span></span>
+                            
+
+                        <!--price_update_131--></span>
+        </div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="131" data-ca-target-id="product_quick_view" href="http://localhost/cscart_ru_i/index.php?dispatch=products.quick_view&amp;product_id=131&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D204%26sl%3Den&amp;n_items=152%2C160%2C115%2C124%2C150%2C151%2C127%2C122%2C129%2C131" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div></div>
+</form>
+</div></div><div class="ty-column3"></div><div class="ty-column3"></div>    </div>
+
+            
+
+
+    <!--pagination_contents--></div>
+    
+    
+
+
+
+<!--category_products_11--></div>
+
+
+
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

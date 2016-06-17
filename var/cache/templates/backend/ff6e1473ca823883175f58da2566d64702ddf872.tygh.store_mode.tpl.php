@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:22
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:02
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/views/settings/store_mode.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:8907866995763e8aeea25d4-67734485%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13726122185763f79aa03459-75414235%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'ff6e1473ca823883175f58da2566d64702ddf872' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/views/settings/store_mode.tpl',
-      1 => 1463494094,
+      1 => 1466167677,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '8907866995763e8aeea25d4-67734485',
+  'nocache_hash' => '13726122185763f79aa03459-75414235',
   'function' => 
   array (
   ),
@@ -28,9 +28,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8af03af26_24106197',
+  'unifunc' => 'content_5763f79aa8c210_44089705',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8af03af26_24106197')) {function content_5763e8af03af26_24106197($_smarty_tpl) {?><?php if (!is_callable('smarty_block_inline_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.inline_script.php';
+<?php if ($_valid && !is_callable('content_5763f79aa8c210_44089705')) {function content_5763f79aa8c210_44089705($_smarty_tpl) {?><?php if (!is_callable('smarty_block_inline_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.inline_script.php';
 ?><?php
 fn_preload_lang_vars(array('store_mode','choose_your_store_mode','full','text_store_mode_full','license_number','please_enter_license_here','trial','trial_mode_ult_disabled','trial_mode_mve_disabled','text_store_mode_trial','select'));
 ?>

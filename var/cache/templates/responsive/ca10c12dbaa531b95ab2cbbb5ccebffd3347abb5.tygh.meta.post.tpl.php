@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:35
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:23
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/call_requests/hooks/index/meta.post.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:18587541055763d8177864e2-69085544%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:9757357015763f7af870241-71212176%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'ca10c12dbaa531b95ab2cbbb5ccebffd3347abb5' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/call_requests/hooks/index/meta.post.tpl',
-      1 => 1465994898,
+      1 => 1466167680,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '18587541055763d8177864e2-69085544',
+  'nocache_hash' => '9757357015763f7af870241-71212176',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d8177ab7b1_02911664',
+  'unifunc' => 'content_5763f7af8b47e9_32329188',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d8177ab7b1_02911664')) {function content_5763d8177ab7b1_02911664($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7af8b47e9_32329188')) {function content_5763f7af8b47e9_32329188($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start(); ?><meta name="format-detection" content="telephone=no"><?php list($_capture_buffer, $_capture_assign, $_capture_append) = array_pop($_smarty_tpl->_capture_stack[0]);
 if (!empty($_capture_buffer)) {

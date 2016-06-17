@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:39
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:28
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/static_templates/logo.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:17359203875763d81b2af045-30582933%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:3907995735763f7b4261182-27667067%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6ea9e7fc41fa1aa395f046c92fbe7758dccfd305' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/static_templates/logo.tpl',
-      1 => 1465994887,
+      1 => 1466167684,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '17359203875763d81b2af045-30582933',
+  'nocache_hash' => '3907995735763f7b4261182-27667067',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d81b304319_73132944',
+  'unifunc' => 'content_5763f7b42bd194_93008472',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d81b304319_73132944')) {function content_5763d81b304319_73132944($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7b42bd194_93008472')) {function content_5763f7b42bd194_93008472($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start(); ?>
 <div class="ty-logo-container">

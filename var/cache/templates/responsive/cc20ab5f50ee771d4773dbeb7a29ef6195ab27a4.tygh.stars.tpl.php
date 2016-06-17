@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 14:59:47
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:32
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/discussion/views/discussion/components/stars.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:14910453385763e633362c26-87385247%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:16035833265763f7b833fd07-78673204%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'cc20ab5f50ee771d4773dbeb7a29ef6195ab27a4' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/discussion/views/discussion/components/stars.tpl',
-      1 => 1465994902,
+      1 => 1466167680,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '14910453385763e633362c26-87385247',
+  'nocache_hash' => '16035833265763f7b833fd07-78673204',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e6333db788_58894585',
+  'unifunc' => 'content_5763f7b84523e4_98442361',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e6333db788_58894585')) {function content_5763e6333db788_58894585($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7b84523e4_98442361')) {function content_5763f7b84523e4_98442361($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start(); ?><span class="ty-nowrap ty-stars">
     <?php if ($_smarty_tpl->tpl_vars['link']->value) {?>

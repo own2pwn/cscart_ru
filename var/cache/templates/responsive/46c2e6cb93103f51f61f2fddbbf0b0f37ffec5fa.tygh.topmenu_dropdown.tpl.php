@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:40
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:29
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/topmenu_dropdown.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:21288222595763d81c764141-43164416%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:5687825235763f7b58261b5-29566644%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '46c2e6cb93103f51f61f2fddbbf0b0f37ffec5fa' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/topmenu_dropdown.tpl',
-      1 => 1465994887,
+      1 => 1466167684,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '21288222595763d81c764141-43164416',
+  'nocache_hash' => '5687825235763f7b58261b5-29566644',
   'function' => 
   array (
   ),
@@ -35,9 +35,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d81ca2ecc3_69973685',
+  'unifunc' => 'content_5763f7b5ae4bd1_49240348',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d81ca2ecc3_69973685')) {function content_5763d81ca2ecc3_69973685($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
+<?php if ($_valid && !is_callable('content_5763f7b5ae4bd1_49240348')) {function content_5763f7b5ae4bd1_49240348($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php
 fn_preload_lang_vars(array('menu','text_topmenu_view_more','text_topmenu_view_more','text_topmenu_more','menu','text_topmenu_view_more','text_topmenu_view_more','text_topmenu_more'));

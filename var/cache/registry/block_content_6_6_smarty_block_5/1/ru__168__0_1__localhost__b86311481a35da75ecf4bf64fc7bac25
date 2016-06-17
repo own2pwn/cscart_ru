@@ -1,4 +1,4 @@
-a:2:{s:4:"data";a:1:{s:7:"content";s:2372:"        <div class="ty-wysiwyg-content" ><div class="ty-cr-phone-number-link">
+a:2:{s:4:"data";a:1:{s:7:"content";s:2390:"        <div class="ty-wysiwyg-content" ><div class="ty-cr-phone-number-link">
     <div class="ty-cr-phone"><span><span class="ty-cr-phone-prefix">8(800)-</span>000-00-00</span>  <span class="ty-cr-work">Пн-Пт с 9:00 до 18:00</span></div>
     <div class="ty-cr-link">    
 
@@ -11,7 +11,7 @@ a:2:{s:4:"data";a:1:{s:7:"content";s:2372:"        <div class="ty-wysiwyg-conten
 
 <form name="call_requests_form_main" id="form_call_request_6" action="http://localhost/cscart_ru_i/index.php" method="post" class="cm-ajax cm-ajax-full-render">
 <input type="hidden" name="result_ids" value="call_request_6" />
-<input type="hidden" name="return_url" value="index.php?dispatch=checkout.checkout" />
+<input type="hidden" name="return_url" value="index.php?dispatch=categories.view&amp;category_id=204" />
 
 
 <div class="ty-control-group">

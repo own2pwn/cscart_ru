@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:33
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:01
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/components/update_layout.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:19203538115763e8b9e18080-94687272%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:8506167115763f7991f7580-91513230%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '0f043fd2ad9d3d2e5e1df7ec184c104f54566906' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/components/update_layout.tpl',
-      1 => 1463494094,
+      1 => 1466167675,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '19203538115763e8b9e18080-94687272',
+  'nocache_hash' => '8506167115763f7991f7580-91513230',
   'function' => 
   array (
   ),
@@ -28,9 +28,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8ba038246_66058132',
+  'unifunc' => 'content_5763f7993022f6_85284983',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8ba038246_66058132')) {function content_5763e8ba038246_66058132($_smarty_tpl) {?><?php if (!is_callable('smarty_block_inline_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.inline_script.php';
+<?php if ($_valid && !is_callable('content_5763f7993022f6_85284983')) {function content_5763f7993022f6_85284983($_smarty_tpl) {?><?php if (!is_callable('smarty_block_inline_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.inline_script.php';
 if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 ?><?php
 fn_preload_lang_vars(array('block_manager.forbid_changing_layout_in_css_mode','general','name','copy_from_layout','restore_original','default','block_manager.grid_columns','block_manager.layout_width','block_manager.fixed_layout','block_manager.fluid_layout','block_manager.full_width_layout','block_manager.min_width','block_manager.max_width','delete'));

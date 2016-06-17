@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:21
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:16:09
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/common/select_popup.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:13181527195763e8ad964856-56686052%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:6789759305763f819e3a0c8-37131708%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '5e2889b8fec9cfbd4895f77453dcb030ed355a6d' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/common/select_popup.tpl',
-      1 => 1463494094,
+      1 => 1466167674,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '13181527195763e8ad964856-56686052',
+  'nocache_hash' => '6789759305763f819e3a0c8-37131708',
   'function' => 
   array (
   ),
@@ -55,9 +55,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8adada6a2_58983565',
+  'unifunc' => 'content_5763f81a0f32c1_75814646',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8adada6a2_58983565')) {function content_5763e8adada6a2_58983565($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
+<?php if ($_valid && !is_callable('content_5763f81a0f32c1_75814646')) {function content_5763f81a0f32c1_75814646($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
 ?><?php
 fn_preload_lang_vars(array('active','hidden','disabled','pending','new','active','disabled','hidden','pending','new','notify_customer','notify_orders_department','notify_vendor'));

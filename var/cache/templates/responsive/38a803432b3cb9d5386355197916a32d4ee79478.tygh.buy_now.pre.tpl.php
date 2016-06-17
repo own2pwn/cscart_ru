@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:38:11
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:47
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/wishlist/hooks/products/buy_now.pre.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:9351146505763ef3323ef95-15897014%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:10811869735763f7c7b79095-01186189%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '38a803432b3cb9d5386355197916a32d4ee79478' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/wishlist/hooks/products/buy_now.pre.tpl',
-      1 => 1465994902,
+      1 => 1466167683,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '9351146505763ef3323ef95-15897014',
+  'nocache_hash' => '10811869735763f7c7b79095-01186189',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763ef3328f5f3_98469273',
+  'unifunc' => 'content_5763f7c7be1451_20119021',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763ef3328f5f3_98469273')) {function content_5763ef3328f5f3_98469273($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7c7be1451_20119021')) {function content_5763f7c7be1451_20119021($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start();
 if (!$_smarty_tpl->tpl_vars['hide_wishlist_button']->value) {?>

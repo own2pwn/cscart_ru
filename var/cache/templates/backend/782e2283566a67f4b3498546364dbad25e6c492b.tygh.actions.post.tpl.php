@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:22
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:01
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/addons/help_tutorial/hooks/index/actions.post.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:11866578985763e8ae2f6c69-72885480%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:11436861905763f799e6a2a9-93475280%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '782e2283566a67f4b3498546364dbad25e6c492b' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/addons/help_tutorial/hooks/index/actions.post.tpl',
-      1 => 1463494094,
+      1 => 1466167672,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '11866578985763e8ae2f6c69-72885480',
+  'nocache_hash' => '11436861905763f799e6a2a9-93475280',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8ae364934_94678759',
+  'unifunc' => 'content_5763f799ea5200_53001033',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8ae364934_94678759')) {function content_5763e8ae364934_94678759($_smarty_tpl) {?><?php
+<?php if ($_valid && !is_callable('content_5763f799ea5200_53001033')) {function content_5763f799ea5200_53001033($_smarty_tpl) {?><?php
 fn_preload_lang_vars(array('help_tutorial.need_help','close'));
 ?>
 <?php if (($_smarty_tpl->tpl_vars['runtime']->value['controller']=="block_manager"&&$_smarty_tpl->tpl_vars['runtime']->value['mode']=="manage"||$_smarty_tpl->tpl_vars['runtime']->value['controller']=="themes"&&$_smarty_tpl->tpl_vars['runtime']->value['mode']=="manage"||$_smarty_tpl->tpl_vars['runtime']->value['controller']=="store_import"&&$_smarty_tpl->tpl_vars['runtime']->value['mode']=="index"||fn_allowed_for("ULTIMATE")&&$_smarty_tpl->tpl_vars['runtime']->value['controller']=="companies"||$_smarty_tpl->tpl_vars['runtime']->value['controller']=="index"&&$_smarty_tpl->tpl_vars['runtime']->value['mode']=="index"||$_smarty_tpl->tpl_vars['runtime']->value['controller']=="seo_rules"&&$_smarty_tpl->tpl_vars['runtime']->value['mode']=="manage")) {?>

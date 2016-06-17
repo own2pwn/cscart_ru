@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:38:13
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:49
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/views/products/components/product_features_short_list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:18650432835763ef358b1ba5-84660957%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:9938270205763f7c95c3ce6-12349512%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '899c56345dd1ab7defc4a85af68162fecca71482' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/views/products/components/product_features_short_list.tpl',
-      1 => 1465994887,
+      1 => 1466167685,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '18650432835763ef358b1ba5-84660957',
+  'nocache_hash' => '9938270205763f7c95c3ce6-12349512',
   'function' => 
   array (
     'feature_value' => 
@@ -37,9 +37,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => 0,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763ef35b93926_42075558',
+  'unifunc' => 'content_5763f7c97f13a9_35080319',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763ef35b93926_42075558')) {function content_5763ef35b93926_42075558($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_enum')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/modifier.enum.php';
+<?php if ($_valid && !is_callable('content_5763f7c97f13a9_35080319')) {function content_5763f7c97f13a9_35080319($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_enum')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/modifier.enum.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start();

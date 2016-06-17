@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 14:59:54
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:33
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/rus_theme_style/overrides/addons/discussion/blocks/testimonials.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:21022183035763e63a50fe28-31575651%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:8472436165763f7b93aefb6-37426648%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '98ae49179aeac35dc149feecafa1cfc89a808aae' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/rus_theme_style/overrides/addons/discussion/blocks/testimonials.tpl',
-      1 => 1465994907,
+      1 => 1466167683,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '21022183035763e63a50fe28-31575651',
+  'nocache_hash' => '8472436165763f7b93aefb6-37426648',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e63a5e8b25_94584201',
+  'unifunc' => 'content_5763f7b94bc3d2_01619432',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e63a5e8b25_94584201')) {function content_5763e63a5e8b25_94584201($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
+<?php if ($_valid && !is_callable('content_5763f7b94bc3d2_01619432')) {function content_5763f7b94bc3d2_01619432($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_modifier_date_format')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/modifier.date_format.php';
 if (!is_callable('smarty_function_cycle')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/function.cycle.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';

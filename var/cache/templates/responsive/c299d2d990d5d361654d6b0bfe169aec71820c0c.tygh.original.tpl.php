@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 14:59:53
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:30
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/banners/blocks/original.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:9437415445763e639b17d01-90122838%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:16847578795763f7b6133b56-19707576%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'c299d2d990d5d361654d6b0bfe169aec71820c0c' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/banners/blocks/original.tpl',
-      1 => 1464594176,
+      1 => 1466167680,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '9437415445763e639b17d01-90122838',
+  'nocache_hash' => '16847578795763f7b6133b56-19707576',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e639b96bf0_83821922',
+  'unifunc' => 'content_5763f7b61b09d1_79799059',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e639b96bf0_83821922')) {function content_5763e639b96bf0_83821922($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7b61b09d1_79799059')) {function content_5763f7b61b09d1_79799059($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start(); ?>
 <?php  $_smarty_tpl->tpl_vars["banner"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["banner"]->_loop = false;

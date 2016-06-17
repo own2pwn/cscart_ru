@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:34
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:02
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/addons/help_tutorial/components/video.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:8739089885763e8ba400a31-96622390%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:7710672355763f79a08c439-11110661%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'ca0ac1ceb8a8d3392f35278a1a6a5afde9976cbb' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/addons/help_tutorial/components/video.tpl',
-      1 => 1463494094,
+      1 => 1466167672,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '8739089885763e8ba400a31-96622390',
+  'nocache_hash' => '7710672355763f79a08c439-11110661',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8ba46cdf1_40426993',
+  'unifunc' => 'content_5763f79a0afa21_43546244',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8ba46cdf1_40426993')) {function content_5763e8ba46cdf1_40426993($_smarty_tpl) {?><?php if (!is_callable('smarty_block_inline_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.inline_script.php';
+<?php if ($_valid && !is_callable('content_5763f79a0afa21_43546244')) {function content_5763f79a0afa21_43546244($_smarty_tpl) {?><?php if (!is_callable('smarty_block_inline_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.inline_script.php';
 ?><div class="help-tutorial-wrapper"><div class="help-tutorial-content clearfix <?php if ($_smarty_tpl->tpl_vars['count']->value==2) {?>help-tutorial-content_width_big<?php }
 if ($_smarty_tpl->tpl_vars['open']->value) {?> open<?php }?>" id="help_tutorial_content"><?php if ($_smarty_tpl->tpl_vars['count']->value==2) {?><iframe width="460" height="360" src="//www.youtube.com/embed/<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['item']->value, ENT_QUOTES, 'UTF-8');?>
 ?wmode=transparent&rel=0&html5=1" frameborder="0" allowfullscreen align="left"></iframe><iframe width="460" height="360" src="//www.youtube.com/embed/<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['item2']->value, ENT_QUOTES, 'UTF-8');?>

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:38:10
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:47
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/call_requests/hooks/products/add_to_cart.post.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2865513035763ef32ee6e36-23551568%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13145011245763f7c79499d5-64746717%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '4bc52308eef0c1410050bbc025a1269cfd5aad26' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/call_requests/hooks/products/add_to_cart.post.tpl',
-      1 => 1465994898,
+      1 => 1466167680,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '2865513035763ef32ee6e36-23551568',
+  'nocache_hash' => '13145011245763f7c79499d5-64746717',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763ef3305a830_42256961',
+  'unifunc' => 'content_5763f7c79d8124_06012835',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763ef3305a830_42256961')) {function content_5763ef3305a830_42256961($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7c79d8124_06012835')) {function content_5763f7c79d8124_06012835($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php
 fn_preload_lang_vars(array('call_requests.buy_now_with_one_click','call_requests.buy_now_with_one_click','call_requests.buy_now_with_one_click','call_requests.buy_now_with_one_click'));
 ?>

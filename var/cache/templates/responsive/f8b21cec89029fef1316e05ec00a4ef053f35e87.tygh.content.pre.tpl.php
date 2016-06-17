@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:37
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:26
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/twigmo/hooks/index/content.pre.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:19001720085763d819d83a49-62083907%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2995327475763f7b29485f9-14066898%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'f8b21cec89029fef1316e05ec00a4ef053f35e87' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/twigmo/hooks/index/content.pre.tpl',
-      1 => 1465994907,
+      1 => 1466167683,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '19001720085763d819d83a49-62083907',
+  'nocache_hash' => '2995327475763f7b29485f9-14066898',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d819e05820_65343161',
+  'unifunc' => 'content_5763f7b2a06cc7_82131381',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d819e05820_65343161')) {function content_5763d819e05820_65343161($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7b2a06cc7_82131381')) {function content_5763f7b2a06cc7_82131381($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start();
 $_smarty_tpl->tpl_vars["state"] = new Smarty_variable($_SESSION['twg_state'], null, 0);?>

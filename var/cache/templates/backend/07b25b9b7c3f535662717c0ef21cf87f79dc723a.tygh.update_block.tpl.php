@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:18:57
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:11
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/update_block.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:20307546765763eab14e7043-14610233%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:12830035505763f7a37487e4-65083480%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '07b25b9b7c3f535662717c0ef21cf87f79dc723a' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/update_block.tpl',
-      1 => 1463494094,
+      1 => 1466167675,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '20307546765763eab14e7043-14610233',
+  'nocache_hash' => '12830035505763f7a37487e4-65083480',
   'function' => 
   array (
   ),
@@ -42,9 +42,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763eab1825794_32644617',
+  'unifunc' => 'content_5763f7a3a46dd2_94086420',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763eab1825794_32644617')) {function content_5763eab1825794_32644617($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
+<?php if ($_valid && !is_callable('content_5763f7a3a46dd2_94086420')) {function content_5763f7a3a46dd2_94086420($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
 if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_include_ext')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.include_ext.php';
 ?><?php

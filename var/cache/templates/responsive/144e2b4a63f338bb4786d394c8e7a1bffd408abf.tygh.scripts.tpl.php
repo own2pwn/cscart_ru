@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:44
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:34
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/scripts.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:9091359565763d82094b545-33619293%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:16585468275763f7ba12a754-49857444%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '144e2b4a63f338bb4786d394c8e7a1bffd408abf' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/scripts.tpl',
-      1 => 1465994887,
+      1 => 1466167684,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '9091359565763d82094b545-33619293',
+  'nocache_hash' => '16585468275763f7ba12a754-49857444',
   'function' => 
   array (
   ),
@@ -30,9 +30,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d820d19be6_23006285',
+  'unifunc' => 'content_5763f7ba53ce90_48629638',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d820d19be6_23006285')) {function content_5763d820d19be6_23006285($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
+<?php if ($_valid && !is_callable('content_5763f7ba53ce90_48629638')) {function content_5763f7ba53ce90_48629638($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
 if (!is_callable('smarty_block_scripts')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.scripts.php';
 if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:33
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:00
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/render/block.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:6368147795763e8b9886a43-92338959%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:3943900655763f798e98181-08509858%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '71c5caae534baf08a344c7e24492c0dfb92554cc' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/render/block.tpl',
-      1 => 1463494094,
+      1 => 1466167675,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '6368147795763e8b9886a43-92338959',
+  'nocache_hash' => '3943900655763f798e98181-08509858',
   'function' => 
   array (
   ),
@@ -30,9 +30,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8b9980bc2_04397130',
+  'unifunc' => 'content_5763f79904c774_61537966',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8b9980bc2_04397130')) {function content_5763e8b9980bc2_04397130($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/modifier.replace.php';
+<?php if ($_valid && !is_callable('content_5763f79904c774_61537966')) {function content_5763f79904c774_61537966($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/modifier.replace.php';
 ?><?php
 fn_preload_lang_vars(array('disable','enable','bm_confirm','block_options','enable_or_disable_block','block_settings','delete_block','add_grid_block','block_options','delete_block','on_off'));
 ?>

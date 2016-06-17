@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 14:59:46
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:30
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/product_data.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:10937575015763e63201f016-03521594%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:20006838845763f7b652fd21-23808626%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '9dbf9fe4c08eded21263195ec2e8688cf37a1a7b' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/product_data.tpl',
-      1 => 1465994887,
+      1 => 1466167684,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '10937575015763e63201f016-03521594',
+  'nocache_hash' => '20006838845763f7b652fd21-23808626',
   'function' => 
   array (
   ),
@@ -86,9 +86,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e63300bf36_25877256',
+  'unifunc' => 'content_5763f7b75cb4a0_77523825',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e63300bf36_25877256')) {function content_5763e63300bf36_25877256($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_enum')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/modifier.enum.php';
+<?php if ($_valid && !is_callable('content_5763f7b75cb4a0_77523825')) {function content_5763f7b75cb4a0_77523825($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_enum')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/modifier.enum.php';
 if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_live_edit')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.live_edit.php';
 if (!is_callable('smarty_modifier_truncate')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/modifier.truncate.php';

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:33
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:00
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/manage.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:7020841265763e8b953d842-86497279%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:18449775955763f798c0cd15-27611849%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '5930db5878120614c00c188e4078feb138f2fea5' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/manage.tpl',
-      1 => 1463494094,
+      1 => 1466167675,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '7020841265763e8b953d842-86497279',
+  'nocache_hash' => '18449775955763f798c0cd15-27611849',
   'function' => 
   array (
   ),
@@ -34,9 +34,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8b97823a4_17805861',
+  'unifunc' => 'content_5763f798dc3d72_29166185',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8b97823a4_17805861')) {function content_5763e8b97823a4_17805861($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
+<?php if ($_valid && !is_callable('content_5763f798dc3d72_29166185')) {function content_5763f798dc3d72_29166185($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
 if (!is_callable('smarty_block_inline_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.inline_script.php';
 if (!is_callable('smarty_function_style')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.style.php';
 if (!is_callable('smarty_function_render_location')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.render_location.php';
@@ -231,7 +231,7 @@ if ($_smarty_tpl->tpl_vars['key']->value=="location_".((string)$_smarty_tpl->tpl
                     <?php if ($_smarty_tpl->tpl_vars['key']->value=="location_".((string)$_smarty_tpl->tpl_vars['location']->value['location_id'])) {?>
                         <?php ob_start();
 echo $_smarty_tpl->__("block_manager.editing_layout_page");
-$_tmp1=ob_get_clean();?><?php smarty_template_function_btn($_smarty_tpl,array('type'=>"dialog",'class'=>"cm-ajax-force hand icon-cog",'href'=>"block_manager.update_location?location=".((string)$_smarty_tpl->tpl_vars['location']->value['location_id']),'id'=>"tab_location_".((string)$_smarty_tpl->tpl_vars['location']->value['location_id']),'title'=>$_tmp1.": ".((string)$_smarty_tpl->tpl_vars['tab']->value['title'])));?>
+$_tmp3=ob_get_clean();?><?php smarty_template_function_btn($_smarty_tpl,array('type'=>"dialog",'class'=>"cm-ajax-force hand icon-cog",'href'=>"block_manager.update_location?location=".((string)$_smarty_tpl->tpl_vars['location']->value['location_id']),'id'=>"tab_location_".((string)$_smarty_tpl->tpl_vars['location']->value['location_id']),'title'=>$_tmp3.": ".((string)$_smarty_tpl->tpl_vars['tab']->value['title'])));?>
 
                     <?php }?>
                     <a <?php if ($_smarty_tpl->tpl_vars['tab']->value['href']) {?>href="<?php echo htmlspecialchars(fn_url($_smarty_tpl->tpl_vars['tab']->value['href']), ENT_QUOTES, 'UTF-8');?>
@@ -243,7 +243,7 @@ $_tmp1=ob_get_clean();?><?php smarty_template_function_btn($_smarty_tpl,array('t
             <li class="cm-no-highlight">
                 <?php ob_start();
 echo $_smarty_tpl->__("block_manager.add_layout_page");
-$_tmp2=ob_get_clean();?><?php echo $_smarty_tpl->getSubTemplate ("common/popupbox.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('id'=>"add_new_location",'text'=>__("block_manager.new_layout_page"),'link_text'=>$_tmp2."…",'act'=>"link",'href'=>"block_manager.update_location",'opener_ajax_class'=>"cm-ajax",'link_class'=>"cm-ajax-force",'icon'=>"icon-plus",'content'=>''), 0);?>
+$_tmp4=ob_get_clean();?><?php echo $_smarty_tpl->getSubTemplate ("common/popupbox.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('id'=>"add_new_location",'text'=>__("block_manager.new_layout_page"),'link_text'=>$_tmp4."…",'act'=>"link",'href'=>"block_manager.update_location",'opener_ajax_class'=>"cm-ajax",'link_class'=>"cm-ajax-force",'icon'=>"icon-plus",'content'=>''), 0);?>
 </li>
         <?php }?>
     </ul>
@@ -275,7 +275,7 @@ $_smarty_tpl->tpl_vars["layout"]->_loop = true;
                         <?php $_smarty_tpl->_capture_stack[0][] = array("tools_list", null, null); ob_start(); ?>
                             <li><?php ob_start();
 echo htmlspecialchars(fn_url("?s_layout=".((string)$_smarty_tpl->tpl_vars['layout']->value['layout_id']),"C"), ENT_QUOTES, 'UTF-8');
-$_tmp3=ob_get_clean();?><?php smarty_template_function_btn($_smarty_tpl,array('type'=>"list",'text'=>__("preview"),'href'=>$_tmp3,'target'=>"_blank"));?>
+$_tmp5=ob_get_clean();?><?php smarty_template_function_btn($_smarty_tpl,array('type'=>"list",'text'=>__("preview"),'href'=>$_tmp5,'target'=>"_blank"));?>
 </li>
                             <li class="divider"></li>
                             <?php if (!$_smarty_tpl->tpl_vars['layout']->value['is_default']) {?>
@@ -295,7 +295,7 @@ if (!empty($_capture_buffer)) {
 } else $_smarty_tpl->capture_error();?>
                                 <?php ob_start();
 echo $_smarty_tpl->__("editing_layout");
-$_tmp4=ob_get_clean();?><?php echo $_smarty_tpl->getSubTemplate ("common/popupbox.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('id'=>"upate_layout_".((string)$_smarty_tpl->tpl_vars['layout']->value['layout_id']),'text'=>$_tmp4.": ".((string)$_smarty_tpl->tpl_vars['layout']->value['name']),'content'=>Smarty::$_smarty_vars['capture']['add_new_picker'],'act'=>"link",'link_text'=>__("properties")), 0);?>
+$_tmp6=ob_get_clean();?><?php echo $_smarty_tpl->getSubTemplate ("common/popupbox.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('id'=>"upate_layout_".((string)$_smarty_tpl->tpl_vars['layout']->value['layout_id']),'text'=>$_tmp6.": ".((string)$_smarty_tpl->tpl_vars['layout']->value['name']),'content'=>Smarty::$_smarty_vars['capture']['add_new_picker'],'act'=>"link",'link_text'=>__("properties")), 0);?>
 
                             </li>
 
@@ -380,7 +380,7 @@ if (!empty($_capture_buffer)) {
 <?php } else { ?>
     <?php ob_start();
 echo $_smarty_tpl->__("editing_layout");
-$_tmp5=ob_get_clean();?><?php echo $_smarty_tpl->getSubTemplate ("common/mainbox.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('title'=>$_tmp5.": ".((string)$_smarty_tpl->tpl_vars['layout_data']->value['name']),'adv_buttons'=>Smarty::$_smarty_vars['capture']['adv_buttons'],'buttons'=>Smarty::$_smarty_vars['capture']['buttons'],'content'=>Smarty::$_smarty_vars['capture']['mainbox'],'select_languages'=>true,'sidebar'=>Smarty::$_smarty_vars['capture']['sidebar']), 0);?>
+$_tmp7=ob_get_clean();?><?php echo $_smarty_tpl->getSubTemplate ("common/mainbox.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('title'=>$_tmp7.": ".((string)$_smarty_tpl->tpl_vars['layout_data']->value['name']),'adv_buttons'=>Smarty::$_smarty_vars['capture']['adv_buttons'],'buttons'=>Smarty::$_smarty_vars['capture']['buttons'],'content'=>Smarty::$_smarty_vars['capture']['mainbox'],'select_languages'=>true,'sidebar'=>Smarty::$_smarty_vars['capture']['sidebar']), 0);?>
 
 <?php }?>
 <?php }} ?>

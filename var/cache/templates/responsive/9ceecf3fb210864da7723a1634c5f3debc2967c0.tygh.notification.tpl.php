@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:37
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:26
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/notification.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:12301789555763d819bb7b07-05036317%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:8179256315763f7b27a67f9-56641027%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '9ceecf3fb210864da7723a1634c5f3debc2967c0' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/notification.tpl',
-      1 => 1465994887,
+      1 => 1466167684,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '12301789555763d819bb7b07-05036317',
+  'nocache_hash' => '8179256315763f7b27a67f9-56641027',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d819cb6181_23633909',
+  'unifunc' => 'content_5763f7b287dd88_79161655',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d819cb6181_23633909')) {function content_5763d819cb6181_23633909($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7b287dd88_79161655')) {function content_5763f7b287dd88_79161655($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start(); ?><div class="cm-notification-container notification-container">
 <?php if (!defined("AJAX_REQUEST")) {?>

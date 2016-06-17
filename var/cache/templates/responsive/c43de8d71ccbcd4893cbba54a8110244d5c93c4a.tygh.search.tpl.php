@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:39
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:28
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/search.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:13622800115763d81b66cfb1-24677152%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:14961488285763f7b47cab82-21861379%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'c43de8d71ccbcd4893cbba54a8110244d5c93c4a' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/search.tpl',
-      1 => 1465994887,
+      1 => 1466167684,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '13622800115763d81b66cfb1-24677152',
+  'nocache_hash' => '14961488285763f7b47cab82-21861379',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d81b71f606_52297654',
+  'unifunc' => 'content_5763f7b492cb46_89394424',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d81b71f606_52297654')) {function content_5763d81b71f606_52297654($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
+<?php if ($_valid && !is_callable('content_5763f7b492cb46_89394424')) {function content_5763f7b492cb46_89394424($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php
 fn_preload_lang_vars(array('search','search_products','search','search','search','search_products','search','search'));

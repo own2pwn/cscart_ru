@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 14:59:45
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:32
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/list_templates/grid_list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:13334257465763e63183c914-06204190%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:20686637835763f7b8998874-81257470%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '4983038dc54ab77404feef324f629bc7a7afde99' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/list_templates/grid_list.tpl',
-      1 => 1465994887,
+      1 => 1466167683,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '13334257465763e63183c914-06204190',
+  'nocache_hash' => '20686637835763f7b8998874-81257470',
   'function' => 
   array (
   ),
@@ -50,9 +50,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e631ae65a3_70916959',
+  'unifunc' => 'content_5763f7b8d2b686_69013559',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e631ae65a3_70916959')) {function content_5763e631ae65a3_70916959($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
+<?php if ($_valid && !is_callable('content_5763f7b8d2b686_69013559')) {function content_5763f7b8d2b686_69013559($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.script.php';
 if (!is_callable('smarty_function_split')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.split.php';
 if (!is_callable('smarty_function_math')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/function.math.php';
 if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';

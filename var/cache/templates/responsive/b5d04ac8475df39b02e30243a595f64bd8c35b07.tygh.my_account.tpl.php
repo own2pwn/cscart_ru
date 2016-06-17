@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:38
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:27
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/my_account.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:15390865045763d81a5e0b25-94506560%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:9531534425763f7b3324cd4-91531619%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'b5d04ac8475df39b02e30243a595f64bd8c35b07' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/blocks/my_account.tpl',
-      1 => 1465994887,
+      1 => 1466167683,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '15390865045763d81a5e0b25-94506560',
+  'nocache_hash' => '9531534425763f7b3324cd4-91531619',
   'function' => 
   array (
   ),
@@ -30,9 +30,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d81a7d08d3_50252032',
+  'unifunc' => 'content_5763f7b355b1e9_58582918',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d81a7d08d3_50252032')) {function content_5763d81a7d08d3_50252032($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.live_edit.php';
+<?php if ($_valid && !is_callable('content_5763f7b355b1e9_58582918')) {function content_5763f7b355b1e9_58582918($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.live_edit.php';
 if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php

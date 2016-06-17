@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:18
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:13:58
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/common/styles.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:7016147735763e8aa9f32b1-81586451%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:4039616705763f796f3c594-02209394%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8ef50519192c1e1992e79ad728233e72a29c197' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/common/styles.tpl',
-      1 => 1463494094,
+      1 => 1466167674,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '7016147735763e8aa9f32b1-81586451',
+  'nocache_hash' => '4039616705763f796f3c594-02209394',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8aaa5b391_12094728',
+  'unifunc' => 'content_5763f7970183b6_82777664',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8aaa5b391_12094728')) {function content_5763e8aaa5b391_12094728($_smarty_tpl) {?><?php if (!is_callable('smarty_block_styles')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.styles.php';
+<?php if ($_valid && !is_callable('content_5763f7970183b6_82777664')) {function content_5763f7970183b6_82777664($_smarty_tpl) {?><?php if (!is_callable('smarty_block_styles')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.styles.php';
 if (!is_callable('smarty_function_style')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.style.php';
 if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 ?><?php $_smarty_tpl->smarty->_tag_stack[] = array('styles', array()); $_block_repeat=true; echo smarty_block_styles(array(), null, $_smarty_tpl, $_block_repeat);while ($_block_repeat) { ob_start();?>

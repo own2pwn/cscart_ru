@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:38:12
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:48
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/reward_points/views/products/components/product_representation.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1760407595763ef340c0408-76384219%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:7236036195763f7c888e4b9-76972676%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '34d1dc6d67c8fa1f7b8c938146fffc67cb168e8b' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/reward_points/views/products/components/product_representation.tpl',
-      1 => 1465994897,
+      1 => 1466167683,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '1760407595763ef340c0408-76384219',
+  'nocache_hash' => '7236036195763f7c888e4b9-76972676',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763ef3416e914_32534150',
+  'unifunc' => 'content_5763f7c89184e1_39928832',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763ef3416e914_32534150')) {function content_5763ef3416e914_32534150($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7c89184e1_39928832')) {function content_5763f7c89184e1_39928832($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php
 fn_preload_lang_vars(array('price_in_points','points_lowercase','reward_points','points_lowercase','price_in_points','points_lowercase','reward_points','points_lowercase'));
 ?>

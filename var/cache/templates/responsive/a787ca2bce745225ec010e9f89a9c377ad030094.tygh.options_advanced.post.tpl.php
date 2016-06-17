@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:38:12
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:48
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/reward_points/hooks/products/options_advanced.post.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:13887250935763ef3401c9c4-92522899%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:18531468875763f7c87fe2b6-98451943%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'a787ca2bce745225ec010e9f89a9c377ad030094' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/reward_points/hooks/products/options_advanced.post.tpl',
-      1 => 1465994897,
+      1 => 1466167683,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '13887250935763ef3401c9c4-92522899',
+  'nocache_hash' => '18531468875763f7c87fe2b6-98451943',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763ef340bbf39_69724032',
+  'unifunc' => 'content_5763f7c888a758_55395496',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763ef340bbf39_69724032')) {function content_5763ef340bbf39_69724032($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7c888a758_55395496')) {function content_5763f7c888a758_55395496($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start(); ?><input type="hidden" name="appearance[dont_show_points]" value="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['dont_show_points']->value, ENT_QUOTES, 'UTF-8');?>
 " />

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 14:59:47
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:31
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/discussion/hooks/products/data_block.pre.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:7152988645763e6332e2711-28701336%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:20408163955763f7b78ccb97-75516163%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'ce8aa4eec15077624c4c044b8343b804ea460647' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/discussion/hooks/products/data_block.pre.tpl',
-      1 => 1465994902,
+      1 => 1466167680,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '7152988645763e6332e2711-28701336',
+  'nocache_hash' => '20408163955763f7b78ccb97-75516163',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e63335e830_18087409',
+  'unifunc' => 'content_5763f7b79738e7_98434220',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e63335e830_18087409')) {function content_5763e63335e830_18087409($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
+<?php if ($_valid && !is_callable('content_5763f7b79738e7_98434220')) {function content_5763f7b79738e7_98434220($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start();
 if ($_smarty_tpl->tpl_vars['show_rating']->value) {?>

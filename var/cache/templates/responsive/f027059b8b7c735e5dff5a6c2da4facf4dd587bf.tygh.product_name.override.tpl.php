@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 14:59:47
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:31
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/wishlist/hooks/products/product_name.override.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2651597835763e63315c2b5-81684490%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:3712376085763f7b76c9aa9-11551137%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'f027059b8b7c735e5dff5a6c2da4facf4dd587bf' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/addons/wishlist/hooks/products/product_name.override.tpl',
-      1 => 1465994902,
+      1 => 1466167683,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '2651597835763e63315c2b5-81684490',
+  'nocache_hash' => '3712376085763f7b76c9aa9-11551137',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e63321a601_66555394',
+  'unifunc' => 'content_5763f7b77faab2_53290106',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e63321a601_66555394')) {function content_5763e63321a601_66555394($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.live_edit.php';
+<?php if ($_valid && !is_callable('content_5763f7b77faab2_53290106')) {function content_5763f7b77faab2_53290106($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.live_edit.php';
 if (!is_callable('smarty_modifier_truncate')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/modifier.truncate.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&@constant('AREA')=="C") {

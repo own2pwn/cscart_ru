@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:38:10
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:47
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/buttons/add_to_cart.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:6884926885763ef32caa603-11752461%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:15877439615763f7c77706a9-65226721%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'ad736981cd19dec96220b7bb0b0c93bbec285050' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/buttons/add_to_cart.tpl',
-      1 => 1465994887,
+      1 => 1466167684,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '6884926885763ef32caa603-11752461',
+  'nocache_hash' => '15877439615763f7c77706a9-65226721',
   'function' => 
   array (
   ),
@@ -33,9 +33,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763ef32ddb000_78339288',
+  'unifunc' => 'content_5763f7c78712b8_35871038',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763ef32ddb000_78339288')) {function content_5763ef32ddb000_78339288($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
+<?php if ($_valid && !is_callable('content_5763f7c78712b8_35871038')) {function content_5763f7c78712b8_35871038($_smarty_tpl) {?><?php if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php
 fn_preload_lang_vars(array('add_to_cart','sign_in_to_buy','text_login_to_add_to_cart','add_to_cart','sign_in_to_buy','text_login_to_add_to_cart'));

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:40
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:29
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/image.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1699977665763d81c285018-32985906%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:7332916235763f7b53a1414-07748947%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '00692b4f2e0502be8eece32c4361ae2babd9824e' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/common/image.tpl',
-      1 => 1465994887,
+      1 => 1466167684,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '1699977665763d81c285018-32985906',
+  'nocache_hash' => '7332916235763f7b53a1414-07748947',
   'function' => 
   array (
   ),
@@ -39,9 +39,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763d81c492d68_67035925',
+  'unifunc' => 'content_5763f7b5581463_84412794',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763d81c492d68_67035925')) {function content_5763d81c492d68_67035925($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/function.math.php';
+<?php if ($_valid && !is_callable('content_5763f7b5581463_84412794')) {function content_5763f7b5581463_84412794($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/function.math.php';
 if (!is_callable('smarty_block_hook')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/block.hook.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php

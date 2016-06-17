@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:39
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:08
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/components/existing_blocks_list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1190415345763e8bfe01f91-85719220%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17969822675763f7a0547fe4-93265875%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '62cbe15fd549078fbe70646cbeb5163ffcfd7c08' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/components/existing_blocks_list.tpl',
-      1 => 1463494094,
+      1 => 1466167675,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '1190415345763e8bfe01f91-85719220',
+  'nocache_hash' => '17969822675763f7a0547fe4-93265875',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8bfe4fa63_00530301',
+  'unifunc' => 'content_5763f7a0589849_67445751',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8bfe4fa63_00530301')) {function content_5763e8bfe4fa63_00530301($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/modifier.replace.php';
+<?php if ($_valid && !is_callable('content_5763f7a0589849_67445751')) {function content_5763f7a0589849_67445751($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/modifier.replace.php';
 if (!is_callable('smarty_modifier_truncate')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/modifier.truncate.php';
 ?><?php
 fn_preload_lang_vars(array('delete_block'));

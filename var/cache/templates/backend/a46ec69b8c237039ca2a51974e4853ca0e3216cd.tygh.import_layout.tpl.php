@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 15:10:34
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:01
          compiled from "/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/components/import_layout.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:6861241955763e8ba23cd40-27960027%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13134200665763f7998ac981-44295421%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'a46ec69b8c237039ca2a51974e4853ca0e3216cd' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/backend/templates/views/block_manager/components/import_layout.tpl',
-      1 => 1463494094,
+      1 => 1466167675,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '6861241955763e8ba23cd40-27960027',
+  'nocache_hash' => '13134200665763f7998ac981-44295421',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e8ba284f45_25648014',
+  'unifunc' => 'content_5763f7998cb7b3_15616012',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e8ba284f45_25648014')) {function content_5763e8ba284f45_25648014($_smarty_tpl) {?><?php
+<?php if ($_valid && !is_callable('content_5763f7998cb7b3_15616012')) {function content_5763f7998cb7b3_15616012($_smarty_tpl) {?><?php
 fn_preload_lang_vars(array('create_new_layout','update_current_layout','clean_up_all_locations_on_import','override_by_dispatch','import'));
 ?>
 <div class="install-addon">

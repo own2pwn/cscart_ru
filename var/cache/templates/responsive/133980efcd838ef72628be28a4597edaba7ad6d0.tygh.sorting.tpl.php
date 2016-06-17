@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 14:59:45
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 16:14:41
          compiled from "/var/www/html/cscart_ru_i/design/themes/responsive/templates/views/products/components/sorting.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:7989756505763e631c3ac30-19107180%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:3557795885763f7c1f0d535-70349507%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '133980efcd838ef72628be28a4597edaba7ad6d0' => 
     array (
       0 => '/var/www/html/cscart_ru_i/design/themes/responsive/templates/views/products/components/sorting.tpl',
-      1 => 1465994887,
+      1 => 1466167685,
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '7989756505763e631c3ac30-19107180',
+  'nocache_hash' => '3557795885763f7c1f0d535-70349507',
   'function' => 
   array (
   ),
@@ -42,9 +42,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_5763e631e3e4a1_33019502',
+  'unifunc' => 'content_5763f7c21ef2f6_20768532',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5763e631e3e4a1_33019502')) {function content_5763e631e3e4a1_33019502($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/modifier.replace.php';
+<?php if ($_valid && !is_callable('content_5763f7c21ef2f6_20768532')) {function content_5763f7c21ef2f6_20768532($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/var/www/html/cscart_ru_i/app/lib/vendor/smarty/smarty/libs/plugins/modifier.replace.php';
 if (!is_callable('smarty_function_set_id')) include '/var/www/html/cscart_ru_i/app/functions/smarty_plugins/function.set_id.php';
 ?><?php
 fn_preload_lang_vars(array('per_page','per_page','per_page','per_page'));

@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::first_addon"
+msgid "First addon"
+msgstr "First addon"
+
+msgctxt "Addons::description::first_addon"
+msgid "Description (first_addon)"
+msgstr "Description (first_addon)"
+
+msgctxt "Languages::my_setting"
+msgid "My setting"
+msgstr "My setting"
+
+msgctxt "Languages::select_city"
+msgid "Select city"
+msgstr "Select city"
+
+msgctxt "Languages::block_select_city"
+msgid "Select city"
+msgstr "Select city"
+
+msgctxt "Languages::block_banners_description"
+msgid "Select city block description"
+msgstr "Select city block"

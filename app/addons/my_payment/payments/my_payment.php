@@ -12,7 +12,10 @@
 * "copyright.txt" FILE PROVIDED WITH THIS DISTRIBUTION PACKAGE.            *
 ****************************************************************************/
 //Скрипт оплаты
+//Добавил обработку ответа платежной системы
+//Создал файл для расчета способа доставки
 //Сделали поле данных для ввода
+
 use Tygh\Payments\Processors\Alfabank;
 
 if (defined('PAYMENT_NOTIFICATION')) {

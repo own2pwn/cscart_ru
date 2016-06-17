@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-16 13:06:16
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-17 13:59:39
          compiled from "1d13714839f063c831a4e27d45de7cc0a3b96fd1" */ ?>
-<?php /*%%SmartyHeaderCode:130357508157627a18d7ea57-74933808%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:18506143215763d81b36a0b5-51576262%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'string',
     ),
   ),
-  'nocache_hash' => '130357508157627a18d7ea57-74933808',
+  'nocache_hash' => '18506143215763d81b36a0b5-51576262',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_57627a18d8ae92_63885724',
+  'unifunc' => 'content_5763d81b379f98_32582318',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57627a18d8ae92_63885724')) {function content_57627a18d8ae92_63885724($_smarty_tpl) {?><?php if (!is_callable('smarty_function_call_phone')) include '/var/www/html/cscart_ru_i/app/addons/call_requests/functions/smarty_plugins/function.call_phone.php';
+<?php if ($_valid && !is_callable('content_5763d81b379f98_32582318')) {function content_5763d81b379f98_32582318($_smarty_tpl) {?><?php if (!is_callable('smarty_function_call_phone')) include '/var/www/html/cscart_ru_i/app/addons/call_requests/functions/smarty_plugins/function.call_phone.php';
 if (!is_callable('smarty_function_call_request')) include '/var/www/html/cscart_ru_i/app/addons/call_requests/functions/smarty_plugins/function.call_request.php';
 ?><?php if ($_smarty_tpl->tpl_vars['addons']->value['call_requests']['status']=="A") {?>
 <div class="ty-cr-phone-number-link">

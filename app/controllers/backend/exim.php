@@ -85,6 +85,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // Perform export
     //
     if ($mode == 'export') {
+
         $_suffix = '';
         if (!empty($layout_data['cols'])) {
             $pattern = fn_get_pattern_definition($layout_data['pattern_id'], 'export');
@@ -481,6 +482,8 @@ function fn_import($pattern, $import_data, $options)
         $primary_object_ids[] = $primary_object_id;
         $skip_record = false;
 
+
+
         if (!empty($pattern['import_process_data'])) {
             $data_import_process_data = array(
                 'primary_object_id' => &$primary_object_id,
@@ -794,6 +797,7 @@ function fn_import($pattern, $import_data, $options)
 
 function fn_export($pattern, $export_fields, $options)
 {
+
     if (empty($pattern) || empty($export_fields)) {
         return false;
     }

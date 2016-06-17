@@ -62,6 +62,7 @@
     {/if}
 {/if}
 
+
 {hook name="profiles:profile_fields"}
 <div class="ty-control-group ty-profile-field__item ty-{$field.class}">
     {if $pref_field_name != $field.description || $field.required == "Y"}

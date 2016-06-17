@@ -213,6 +213,8 @@ function fn_exim_set_product_categories($product_id, $link_type, $categories_dat
  */
 function fn_exim_get_product_categories($product_id, $link_type, $category_delimiter, $lang_code = '')
 {
+
+
     $set_delimiter = '; ';
     $conditions = '';
     if (fn_allowed_for('ULTIMATE')) {
@@ -293,6 +295,8 @@ function fn_exim_set_taxes($product_id, $data)
 // @lang_code - language code
 function fn_exim_get_product_features($product_id, $features_delimiter, $lang_code = CART_LANGUAGE)
 {
+    
+   
     static $features;
 
     if (!isset($features[$lang_code])) {
